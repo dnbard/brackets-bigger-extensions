@@ -1,0 +1,8 @@
+.extension-manager-dialog.modal .modal-body{
+    height: 87%;
+    max-height: none;
+}
+
+.extension-manager-dialog.modal{
+    height: 90%;
+}

@@ -1,0 +1,12 @@
+{
+    "name": "dnbard.bigger-extensions",
+    "title": "Bigger extensions panel",
+    "description": "Simply makes Extensions Panel bigger",
+    "homepage": "https://github.com/dnbard/brackets-bigger-extensions",
+    "version": "0.1.0",
+    "author": "Alex Bardanov",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.30.0"
+    }
+}
