@@ -1,9 +1,9 @@
 .extension-manager-dialog.modal .modal-body{
-    height: calc(100% - 112px);
-    max-height: none;
+    height: 100%;
+    min-height: 80vh;
+    max-height: 80vh;
 }
 
 .extension-manager-dialog.modal{
-    height: 94%;
     overflow-y: hidden !important;
 }

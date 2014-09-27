@@ -3,7 +3,7 @@
     "title": "Bigger Extensions Panel",
     "description": "Simply makes Extensions Panel bigger",
     "homepage": "https://github.com/dnbard/brackets-bigger-extensions",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Alex Bardanov",
     "license": "MIT",
     "engines": {
